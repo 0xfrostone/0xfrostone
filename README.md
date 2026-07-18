@@ -18,14 +18,14 @@ Building useful tools for decentralized technology, automation, and artificial i
 
 ---
 
-# About Me
+# 🤝 About Me
 I'm passionate about building intelligent systems that combine AI, Blockchain, and Automation.
 
-# 💻 Tech Stack
+# 💻 Languages and Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,react,nextjs,solidity,docker,linux,git,vscode,mongodb,postgres&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs,react,nextjs,solidity,docker,linux,git,vscode,rust,mongodb,postgres&perline=7"/>
 
 </div>
 
