@@ -2,9 +2,9 @@
 
 # Frost 👋
 
-### AI × Blockchain × Web3 Developer
+### Blockchain × Web3 Developer
 
-Building useful tools for decentralized technology, automation, and artificial intelligence.
+Building useful tools for Decentralized Technology and Automation
 
 <a href="https://x.com/Noouubbb">
 <img src="https://img.shields.io/badge/X-@Noouubbb-000000?style=for-the-badge&logo=x&logoColor=white" />
@@ -16,10 +16,10 @@ Building useful tools for decentralized technology, automation, and artificial i
 
 </div>
 
----
-
 # 🤝 About Me
 I'm passionate about building intelligent systems that combine AI, Blockchain, and Automation.
+
+---
 
 # 💻 Languages and Tools
 
