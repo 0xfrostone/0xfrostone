@@ -18,19 +18,8 @@ Building useful tools for decentralized technology, automation, and artificial i
 
 ---
 
-# 🚀 About Me
-
+# About Me
 I'm passionate about building intelligent systems that combine AI, Blockchain, and Automation.
-
-Currently focused on:
-
-- 🐋 Ethereum Whale Monitoring
-- 🤖 AI Agent Development
-- 🚀 Web3 Infrastructure
-- 🧠 Deep Learning Research
-- ⚡ Telegram Automation
-
----
 
 # 💻 Tech Stack
 
