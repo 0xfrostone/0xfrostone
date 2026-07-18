@@ -8,8 +8,13 @@ Building useful tools for decentralized technology, automation, and artificial i
 
 ---
 
-[![X](https://img.shields.io/badge/Portfolio-Coming%20Soon-6f42c1?style=for-the-badge)](#)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](#)
+<a href="https://x.com/Noouubbb">
+<img src="https://img.shields.io/badge/X-@Noouubbb-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://t.me/Elspan">
+<img src="https://img.shields.io/badge/Telegram-@Elspan-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 
 </div>
 
