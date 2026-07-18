@@ -6,8 +6,6 @@
 
 Building useful tools for decentralized technology, automation, and artificial intelligence.
 
----
-
 <a href="https://x.com/Noouubbb">
 <img src="https://img.shields.io/badge/X-@Noouubbb-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
