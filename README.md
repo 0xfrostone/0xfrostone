@@ -8,8 +8,7 @@ Building useful tools for decentralized technology, automation, and artificial i
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-6f42c1?style=for-the-badge)](#)
-[![Website](https://img.shields.io/badge/RobinLaunchpad-Live-6f42c1?style=for-the-badge)](https://robinlaunchpad.com)
+[![X](https://img.shields.io/badge/Portfolio-Coming%20Soon-6f42c1?style=for-the-badge)](#)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](#)
 
 </div>
